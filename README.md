@@ -11,5 +11,3 @@
 * Ridge
 * Lasso
 * Decision Tree
-* Random Forest
-* Extra Tress
